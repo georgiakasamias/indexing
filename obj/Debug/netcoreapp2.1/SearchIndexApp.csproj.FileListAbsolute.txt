@@ -1,0 +1,11 @@
+/Users/georgiakasamias/Desktop/C#/georgia_kasamias/SearchIndexApp/bin/Debug/netcoreapp2.1/SearchIndexApp.deps.json
+/Users/georgiakasamias/Desktop/C#/georgia_kasamias/SearchIndexApp/bin/Debug/netcoreapp2.1/SearchIndexApp.runtimeconfig.json
+/Users/georgiakasamias/Desktop/C#/georgia_kasamias/SearchIndexApp/bin/Debug/netcoreapp2.1/SearchIndexApp.runtimeconfig.dev.json
+/Users/georgiakasamias/Desktop/C#/georgia_kasamias/SearchIndexApp/bin/Debug/netcoreapp2.1/SearchIndexApp.dll
+/Users/georgiakasamias/Desktop/C#/georgia_kasamias/SearchIndexApp/bin/Debug/netcoreapp2.1/SearchIndexApp.pdb
+/Users/georgiakasamias/Desktop/C#/georgia_kasamias/SearchIndexApp/obj/Debug/netcoreapp2.1/SearchIndexApp.csprojAssemblyReference.cache
+/Users/georgiakasamias/Desktop/C#/georgia_kasamias/SearchIndexApp/obj/Debug/netcoreapp2.1/SearchIndexApp.csproj.CoreCompileInputs.cache
+/Users/georgiakasamias/Desktop/C#/georgia_kasamias/SearchIndexApp/obj/Debug/netcoreapp2.1/SearchIndexApp.AssemblyInfoInputs.cache
+/Users/georgiakasamias/Desktop/C#/georgia_kasamias/SearchIndexApp/obj/Debug/netcoreapp2.1/SearchIndexApp.AssemblyInfo.cs
+/Users/georgiakasamias/Desktop/C#/georgia_kasamias/SearchIndexApp/obj/Debug/netcoreapp2.1/SearchIndexApp.dll
+/Users/georgiakasamias/Desktop/C#/georgia_kasamias/SearchIndexApp/obj/Debug/netcoreapp2.1/SearchIndexApp.pdb
